@@ -916,7 +916,7 @@ alignmentZones = (
 "{0, -14}",
 "{-198, -8}"
 );
-ascender = 859;
+ascender = 800;
 capHeight = 739;
 customParameters = (
 {
@@ -936,7 +936,7 @@ name = underlinePosition;
 value = -200;
 }
 );
-descender = -200;
+descender = -259;
 horizontalStems = (
 20,
 65,
@@ -961,7 +961,7 @@ alignmentZones = (
 "{0, -14}",
 "{-198, -8}"
 );
-ascender = 859;
+ascender = 800;
 capHeight = 739;
 custom = Italic;
 customValue = 1;
@@ -983,7 +983,7 @@ name = underlinePosition;
 value = -200;
 }
 );
-descender = -200;
+descender = -259;
 horizontalStems = (
 20,
 65,
@@ -1009,12 +1009,12 @@ alignmentZones = (
 "{0, -14}",
 "{-198, -8}"
 );
-ascender = 859;
+ascender = 800;
 capHeight = 739;
 customParameters = (
 {
 name = typoAscender;
-value = 859;
+value = "800";
 },
 {
 name = typoDescender;
@@ -1029,7 +1029,7 @@ name = underlinePosition;
 value = -200;
 }
 );
-descender = -200;
+descender = -259;
 horizontalStems = (
 20,
 65,
@@ -1055,7 +1055,7 @@ alignmentZones = (
 "{0, -14}",
 "{-198, -8}"
 );
-ascender = 859;
+ascender = 800;
 capHeight = 739;
 custom = Italic;
 customValue = 1;
@@ -1077,7 +1077,7 @@ name = underlinePosition;
 value = -200;
 }
 );
-descender = -200;
+descender = -259;
 horizontalStems = (
 20,
 65,
