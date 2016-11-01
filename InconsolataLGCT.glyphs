@@ -936,7 +936,7 @@ name = underlinePosition;
 value = -200;
 }
 );
-descender = -259;
+descender = -200;
 horizontalStems = (
 20,
 65,
@@ -983,7 +983,7 @@ name = underlinePosition;
 value = -200;
 }
 );
-descender = -259;
+descender = -200;
 horizontalStems = (
 20,
 65,
@@ -1029,7 +1029,7 @@ name = underlinePosition;
 value = -200;
 }
 );
-descender = -259;
+descender = -200;
 horizontalStems = (
 20,
 65,
@@ -1077,7 +1077,7 @@ name = underlinePosition;
 value = -200;
 }
 );
-descender = -259;
+descender = -200;
 horizontalStems = (
 20,
 65,
