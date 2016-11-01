@@ -925,7 +925,7 @@ value = "800";
 },
 {
 name = typoDescender;
-value = -200;
+value = "-220";
 },
 {
 name = typoLineGap;
@@ -933,10 +933,10 @@ value = 0;
 },
 {
 name = underlinePosition;
-value = -200;
+value = "-220";
 }
 );
-descender = -200;
+descender = -220;
 horizontalStems = (
 20,
 65,
@@ -972,7 +972,7 @@ value = "800";
 },
 {
 name = typoDescender;
-value = -200;
+value = "-220";
 },
 {
 name = typoLineGap;
@@ -980,10 +980,10 @@ value = 0;
 },
 {
 name = underlinePosition;
-value = -200;
+value = "-220";
 }
 );
-descender = -200;
+descender = -220;
 horizontalStems = (
 20,
 65,
@@ -1018,7 +1018,7 @@ value = "800";
 },
 {
 name = typoDescender;
-value = -200;
+value = "-220";
 },
 {
 name = typoLineGap;
@@ -1026,10 +1026,10 @@ value = 0;
 },
 {
 name = underlinePosition;
-value = -200;
+value = "-220";
 }
 );
-descender = -200;
+descender = -220;
 horizontalStems = (
 20,
 65,
@@ -1066,7 +1066,7 @@ value = "800";
 },
 {
 name = typoDescender;
-value = -200;
+value = "-220";
 },
 {
 name = typoLineGap;
@@ -1074,10 +1074,10 @@ value = 0;
 },
 {
 name = underlinePosition;
-value = -200;
+value = "-220";
 }
 );
-descender = -200;
+descender = -220;
 horizontalStems = (
 20,
 65,
