@@ -3045,7 +3045,7 @@ unicode = 0027;
 },
 {
 glyphname = parenleft;
-lastChange = "2016-10-27 22:44:17 +0000";
+lastChange = "2016-10-31 23:48:53 +0000";
 layers = (
 {
 layerId = "0945ADEB-DFBA-48BC-A89F-108FA066EBC6";
@@ -3775,7 +3775,7 @@ unicode = 002D;
 },
 {
 glyphname = period;
-lastChange = "2016-10-27 22:44:17 +0000";
+lastChange = "2016-11-01 00:08:12 +0000";
 layers = (
 {
 layerId = "0945ADEB-DFBA-48BC-A89F-108FA066EBC6";
@@ -6047,7 +6047,7 @@ unicode = 0039;
 },
 {
 glyphname = colon;
-lastChange = "2016-10-27 22:44:17 +0000";
+lastChange = "2016-11-01 00:08:51 +0000";
 layers = (
 {
 layerId = "0945ADEB-DFBA-48BC-A89F-108FA066EBC6";
