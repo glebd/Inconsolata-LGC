@@ -921,7 +921,7 @@ capHeight = 739;
 customParameters = (
 {
 name = typoAscender;
-value = 859;
+value = "800";
 },
 {
 name = typoDescender;
@@ -968,7 +968,7 @@ customValue = 1;
 customParameters = (
 {
 name = typoAscender;
-value = 859;
+value = "800";
 },
 {
 name = typoDescender;
@@ -1062,7 +1062,7 @@ customValue = 1;
 customParameters = (
 {
 name = typoAscender;
-value = 859;
+value = "800";
 },
 {
 name = typoDescender;
